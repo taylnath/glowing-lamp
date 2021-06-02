@@ -3,7 +3,7 @@
 
 The board consists of 25 squares:
 
-![The board](./images.board.png)
+![The board](./images/board.png)
 
 When you click on one of the squares it changes color:
 
