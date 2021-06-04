@@ -1,5 +1,5 @@
 # Glowing Lamp
-## A colorful puzzle built with react. 
+## A colorful puzzle built with React. 
 
 The board consists of 25 squares:
 
